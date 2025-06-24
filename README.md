@@ -1,7 +1,6 @@
 
 # pyLDAvis
 
-![pyLDAvis visualization](./7b8901b6-9911-44d1-a078-c34593069fdd.png)
 
 **pyLDAvis** is a Python library for interactive visualization of topic models, especially those built using **Latent Dirichlet Allocation (LDA)**. This project is a Python port of the excellent R package by Carson Sievert and Kenny Shirley.
 
